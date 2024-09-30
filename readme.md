@@ -1,0 +1,1 @@
+API 3 : WeatherStack to display the weather information of the choosen country
